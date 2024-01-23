@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @lucasmontec-fortis!
+- 👀 I’m interested in software architecture, source code generation, unity editor extensions, gameplay dev, netcode.
+- 📫 How to reach me: Slack!
+- ⚡ Fun fact: I'm a motorcycle addict.
